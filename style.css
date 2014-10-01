@@ -1,0 +1,8 @@
+@font-face { 
+	font-family: "Ubuntu"; 
+	src: url('font.ttf'); 
+}
+
+body {
+	font-family: "Ubuntu.ttf";
+}
