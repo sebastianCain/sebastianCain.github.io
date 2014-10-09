@@ -1,8 +1,8 @@
 @font-face { 
-	font-family: "Ubuntu"; 
-	src: url('font.ttf'); 
+	font-family: "Ubuntu-L"; 
+	src: url('Ubuntu-L.ttf'); 
 }
 
 body {
-	font-family: "Ubuntu.ttf";
+	font-family: "Ubuntu-L.ttf";
 }
