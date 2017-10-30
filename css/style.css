@@ -14,11 +14,11 @@ Import Google Fonts
 @import url(http://fonts.googleapis.com/css?family=Roboto:400|Raleway:200,300,400,500,700,900);
 @font-face {
   font-family: 'Panton-Thin';
-  src: url('../fonts/Panton-Thin.ttf') format("truetype");
+  src: url('../fonts/Panton-Thin.otf');
 }
 @font-face {
     font-family: 'Panton-Light';
-    src: url('../fonts/Panton-Light.ttf') format("truetype");
+    src: url('../fonts/Panton-Light.otf');
 }
 
 .bigdiv {
